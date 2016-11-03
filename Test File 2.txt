@@ -1,2 +1,2 @@
 This is some more text.
-File version 1.0
+File version 1.1
